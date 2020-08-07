@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://fct.dev',
   pathPrefix: '/',
   title: 'Hi, I\'m Fitzy.',
   subtitle: 'I code things.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   googleAnalyticsId: '',
   useKatex: false,
   menu: [
@@ -16,34 +16,36 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About Me',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contact Fitzy',
       path: '/pages/contacts'
     }
   ],
   author: {
     name: 'John "Fitzy" DeLancey',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    photo: '/media/fitzy.jpg',
+    bio: 'I\'m a .Net developer focused on SaaS, fintech, and learning management systems (and the occasional Twitch bot).',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: 'fitzycodes',
+      github: 'fitzyCodesThings',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'delanceyio',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: '',
+      youtube: 'UCKJW6xAuOUPtalDrBCg1P0w',
       soundcloud: '',
+      devto: 'fitzycodesthings',
+      twitch: 'fitzycodesthings'
     }
   }
 };

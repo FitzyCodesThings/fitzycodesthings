@@ -27,6 +27,8 @@ const useSiteMetadata = () => {
                 codepen
                 youtube
                 soundcloud
+                devto
+                twitch
               }
             }
             menu {
