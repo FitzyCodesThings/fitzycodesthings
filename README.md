@@ -1,1 +1,1 @@
-![Hi. I'm Fitzy. I code things.](./static/media/github-background.jpg)
+![Hi. I'm Fitzy. I code things.](https://github.com/FitzyCodesThings/fitzycodesthings/blob/master/static/media/github-background.jpg)
