@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://fct.dev',
   pathPrefix: '/',
-  title: 'Hi, I\'m Fitzy.',
-  subtitle: 'I code things.',
+  title: 'Hi, I\'m Fitzy. I code things.',
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 5,
