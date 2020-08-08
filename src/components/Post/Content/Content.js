@@ -5,7 +5,7 @@ import styles from './Content.module.scss';
 type Props = {
   body: string,
   title: string,
-  socialImage: string
+  socialImage: string | null
 };
 
 const Content = ({ body, title, socialImage }: Props) => (
