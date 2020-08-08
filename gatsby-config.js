@@ -101,7 +101,7 @@ module.exports = {
     {
       resolve: 'gatsby-transformer-remark',
       options: {
-        plugins: [          
+        plugins: [                  
           'gatsby-remark-relative-images',
           {
             resolve: 'gatsby-remark-katex',
@@ -112,7 +112,7 @@ module.exports = {
           {
             resolve: 'gatsby-remark-images',
             options: {
-              maxWidth: 960,
+              maxWidth: 640,
               withWebp: true,
               ignoreFileExtensions: [],
             }
@@ -124,11 +124,12 @@ module.exports = {
           {
             resolve: "gatsby-remark-embed-video",
             options: {
+              width: 640,
               ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
               related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
               noIframeBorder: true, //Optional: Disable insertion of <style> border: 0              
             }
-          },
+          },  
           'gatsby-remark-autolink-headers',
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
