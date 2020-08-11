@@ -46,10 +46,10 @@ const getContactHref = (name: string, contact: string) => {
       href = `https://soundcloud.com/${contact}`;
       break;
     case 'devto':
-      href = `https://dev.to/${contact}`
+      href = `https://dev.to/${contact}`;
       break;
     case 'twitch':
-      href = `https://twitch.tv/${contact}`
+      href = `https://twitch.tv/${contact}`;
       break;
     default:
       href = contact;

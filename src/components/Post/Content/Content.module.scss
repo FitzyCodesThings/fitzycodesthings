@@ -19,6 +19,10 @@
   }
 
   &__body {
+    max-width: $layout-post-width;
+    margin-left: auto;
+    margin-right: auto;
+    
     & figure {
       @include margin-bottom(1);
 
@@ -50,8 +54,10 @@
       margin-right: auto
     }
 
-    & img {
-      max-width: 100%;
+    & img {      
+      max-width: 100%;      
+      height: auto;
+      margin: 0 auto;
     }
 
   }

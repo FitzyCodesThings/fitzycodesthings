@@ -14,7 +14,7 @@ module.exports = {
     menu: siteConfig.menu,
     author: siteConfig.author
   },
-  plugins: [    
+  plugins: [
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -101,7 +101,7 @@ module.exports = {
     {
       resolve: 'gatsby-transformer-remark',
       options: {
-        plugins: [                  
+        plugins: [
           'gatsby-remark-relative-images',
           {
             resolve: 'gatsby-remark-katex',
@@ -112,24 +112,13 @@ module.exports = {
           {
             resolve: 'gatsby-remark-images',
             options: {
-              maxWidth: 640,
+              // maxWidth: '100%', // 640,
               withWebp: true,
               ignoreFileExtensions: [],
             }
           },
-          {
-            resolve: 'gatsby-remark-responsive-iframe',
-            options: { wrapperStyle: 'margin-bottom: 1.0725rem' }
-          },
-          {
-            resolve: "gatsby-remark-embed-video",
-            options: {
-              width: 640,
-              ratio: 1.77, // Optional: Defaults to 16/9 = 1.77
-              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
-              noIframeBorder: true, //Optional: Disable insertion of <style> border: 0              
-            }
-          },  
+          'gatsby-remark-embed-video',
+          'gatsby-remark-responsive-iframe',
           'gatsby-remark-autolink-headers',
           'gatsby-remark-prismjs',
           'gatsby-remark-copy-linked-files',
