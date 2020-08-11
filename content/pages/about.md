@@ -1,13 +1,31 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/github-background.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+# Hi. I'm Fitzy. I code things.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+My name is John "Fitzy" DeLancey, and I'm a primarily .Net software developer and consultant focused on Software-as-a-Service in the fintech and online learning spaces.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+### My Path
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I began programming computers on a toy Pre-Computer 1000 at the age of 11 and haven't stopped since.
+
+I met my first client and began software development consulting 10 years later in PHP and MySQL, then spent 4 years in the U.S. Air Force serving as a nuclear missile officer before returning home to begin a full-time career as a developer.
+
+After 2 years working for a billion dollar multi-industry company in the power, manufacturing, and ecommerce realms, I started my consultancy, White Raven Technology LLC, and began consulting full-time.
+
+### My Specialty
+
+These days, I specialize in full-ish stack development with emphasis on backend development (I'll build frontend, but it's not my forte') using my favorite tech stack.
+
+### My Favorite Tech and Tools
+
+My go-to tech stack these days begins with .Net Core:
+
+- ASP.Net Core as UI layer (MVC or API primarily)
+- Entity Framework Core ORM for code-first data management
+- Azure cloud hosting for hosting, project management, and CI/CD pipeline management
+
+I also dabble in Node.js for static site hosting and experimentation, particularly in blockchain development and implementation.

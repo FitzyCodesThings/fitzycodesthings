@@ -151,6 +151,21 @@ figcaption {
   padding-right: 14px !important;
 }
 
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+textarea {height: 10rem;}
+
+button {
+  background-color: $color-primary; 
+  color: $color-white;
+  border: 1px solid $color-primary;
+  padding: 10px 20px;
+}
+
 @include breakpoint-sm {
   figure.float-left,
   figure.float-right {
