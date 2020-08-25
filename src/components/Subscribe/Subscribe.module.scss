@@ -1,2 +1,17 @@
 @import '../../assets/scss/variables';
 @import '../../assets/scss/mixins';
+
+.subscribe {    
+    background: #148f08;
+    max-width: $layout-post-width;
+    padding: 50px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.subscribe a {
+    color: #fff;
+    font-family: Consolas,Monaco,'Andale Mono','Ubuntu Mono',monospace;
+    font-size: 1.25em;
+    font-weight: bold;
+}

@@ -4,10 +4,11 @@ exports[`Subscribe renders correctly 1`] = `
 <div
   className="subscribe"
 >
-  <script
-    async={true}
-    data-uid="98430ec254"
-    src="https://skilled-maker-9131.ck.page/98430ec254/index.js"
-  />
+  <a
+    href="https://fitzycodesthings.ck.page/5929b07c10"
+    target="_blank"
+  >
+    › return RedirectToAction("Subscribe to the Newsletter")
+  </a>
 </div>
 `;

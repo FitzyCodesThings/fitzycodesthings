@@ -2,11 +2,10 @@
 import React from 'react';
 import styles from './Subscribe.module.scss';
 
-
-const Author = () => (
+const Subscribe = () => (
   <div className={styles['subscribe']}>
-    <script async data-uid="98430ec254" src="https://skilled-maker-9131.ck.page/98430ec254/index.js"></script>
+    <a href="https://fitzycodesthings.ck.page/5929b07c10" target="_blank">&rsaquo; return RedirectToAction("Subscribe to the Newsletter")</a>
   </div>
 );
 
-export default Author;
+export default Subscribe;
