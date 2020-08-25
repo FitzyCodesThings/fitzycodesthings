@@ -100,5 +100,14 @@ exports[`PostTemplate renders correctly 1`] = `
       className="post__comments"
     />
   </div>
+  <div
+    className="subscribe"
+  >
+    <script
+      async={true}
+      data-uid="98430ec254"
+      src="https://skilled-maker-9131.ck.page/98430ec254/index.js"
+    />
+  </div>
 </div>
 `;

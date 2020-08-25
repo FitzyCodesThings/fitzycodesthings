@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Subscribe renders correctly 1`] = `
+<div
+  className="subscribe"
+>
+  <script
+    async={true}
+    data-uid="98430ec254"
+    src="https://skilled-maker-9131.ck.page/98430ec254/index.js"
+  />
+</div>
+`;
