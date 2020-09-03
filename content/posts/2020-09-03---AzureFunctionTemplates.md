@@ -78,4 +78,4 @@ Otherwise, have fun going serverless!
 Until next time,  
 \- Fitzy
 
-### 💬 [Discuss it on Dev](https://dev.to/fitzycodesthings/) 💬
+### 💬 [Discuss it on Dev](https://dev.to/fitzycodesthings/azure-function-templates-with-http-storage-triggers-di-and-options-4a4a) 💬
