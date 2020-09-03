@@ -4,7 +4,7 @@ date: "2020-08-28T10:00:00.000Z"
 template: "post"
 draft: false
 slug: "azure-function-templates-with-http-and-storage-triggers-di-and-options"
-category: "Blockchain"
+category: "Azure"
 tags:
   - "Azure"
   - "Serverless"
