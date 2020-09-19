@@ -6,9 +6,9 @@ exports.handler = async (event) => {
   const { targetUsername } = event.queryStringParameters;
   const { contractId } = event.queryStringParameters;
 
-  if (typeof commandSource === 'null' || commandSource.trim() == ''
-        || typeof targetUsername === 'null' || targetUsername.trim() == ''
-        || typeof contractId === 'null' || contractId.trim() == '') {
+  if (typeof commandSource === 'null' || commandSource.trim() === ''
+        || typeof targetUsername === 'null' || targetUsername.trim() === ''
+        || typeof contractId === 'null' || contractId.trim() === '') {
     return {
       statusCode: 500,
       body: 'Invalid parameters'
