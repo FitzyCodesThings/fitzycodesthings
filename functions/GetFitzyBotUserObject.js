@@ -5,8 +5,8 @@ exports.handler = async (event) => {
     const commandSource = event.queryStringParameters.commandSource;
     const targetUsername = event.queryStringParameters.targetUsername;
 
-    if (typeof commandSource === null || commandSource.trim() == "" || 
-        typeof targetUsername === null || targetUsername.trim() == "")
+    if (typeof commandSource === "null" || commandSource.trim() == "" || 
+        typeof targetUsername === "null" || targetUsername.trim() == "")
     {
         return {
             statusCode: 500,
