@@ -35,6 +35,8 @@ This is an exciting niche within the software development world. I feel like I w
 
 I also really liked getting to have a conversation with a developer who's daily work life is so different from my own. May do more of these.
 
+([Follow me on Twitch](https://twitch.tv/fitzycodesthings) to catch 'em live when I do. 😁)
+
 Until next time! 
 \- John
 
