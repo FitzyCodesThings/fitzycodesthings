@@ -4,7 +4,7 @@ date: "2020-10-16T00:00:00.000Z"
 template: "post"
 draft: false
 slug: "what-is-developer-relations-an-interview-with-twilio-developer-evangelist-layla-codes-it"
-category: "CoreLMS"
+category: "Interviews"
 tags:
   - "Software Careers"
   - "Interviews"
